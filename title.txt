@@ -1,1 +1,3 @@
 het there...
+git config --global user.name "saw kalyar"
+git config --global user.email "sawmyakalyar@gmail.com"
